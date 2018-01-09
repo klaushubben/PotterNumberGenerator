@@ -23,6 +23,8 @@ class ofApp : public ofBaseApp{
      
     
     int nowBook;
+    string wrongStr;
+    void copyToClip( const string & content );
     
     string bookFromIndex(int index){
         string book = "nope";
