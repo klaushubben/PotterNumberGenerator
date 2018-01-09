@@ -6,5 +6,6 @@ A few different versions exist with different themes/content. One consists of on
 
 This simple tool allows me to just type the number of the book, and automatically the 3 'wrong' book numbers are copied to my clipboard for pasting into a JSON file which feeds the game.
 
+Built with [openFrameworks](http://openframeworks.cc) v0.9.8.
 
 Clipboard code from [elliotwoods](https://github.com/elliotwoods).
